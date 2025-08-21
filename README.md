@@ -1,6 +1,7 @@
 # Machine-Learning-Model-for-Predicting-Customer-Churn-
 
 Languages/Libraries: Python, Pandas, NumPy, Scikit-learn, XGBoost, Seaborn, Matplotlib
+
 Techniques: Data Preprocessing, EDA, SMOTE Oversampling, Supervised ML (Classification)
 
 This project focuses on predicting customer churn using machine learning techniques. The dataset is sourced from Kaggle and contains customer demographics, account details, and service usage information. The aim is to identify customers likely to discontinue services and provide actionable insights for retention strategies.
